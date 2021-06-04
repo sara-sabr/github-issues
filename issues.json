@@ -44,9 +44,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/46",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/46",
@@ -130,15 +128,11 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/36",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/36",
@@ -216,9 +210,7 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": {
@@ -340,15 +332,11 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": null,
     "comments": 3,
     "created_at": "2021-01-14T13:11:02Z",
@@ -396,15 +384,11 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2021-01-13T21:09:50Z",
@@ -601,9 +585,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/49",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/49",
@@ -695,9 +677,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/56",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/56",
@@ -789,9 +769,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/56",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/56",
@@ -883,9 +861,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/56",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/56",
@@ -977,9 +953,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/56",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/56",
@@ -1071,9 +1045,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/56",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/56",
@@ -1165,9 +1137,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/56",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/56",
@@ -1259,9 +1229,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/52",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/52",
@@ -1749,9 +1717,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/39",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/39",
@@ -1961,9 +1927,7 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": {
@@ -2085,9 +2049,7 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": {
@@ -2209,9 +2171,7 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": {
@@ -2611,9 +2571,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2020-12-22T14:56:37Z",
@@ -2655,9 +2613,7 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": {
@@ -2793,9 +2749,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/49",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/49",
@@ -2893,9 +2847,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": null,
     "comments": 3,
     "created_at": "2020-12-14T20:56:06Z",
@@ -2943,15 +2895,11 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/51",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/51",
@@ -3029,15 +2977,11 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/51",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/51",
@@ -3115,9 +3059,7 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": {
@@ -3546,9 +3488,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/52",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/52",
@@ -3626,9 +3566,7 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": {
@@ -3764,9 +3702,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2020-12-09T13:08:13Z",
@@ -3969,9 +3905,7 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": {
@@ -4299,9 +4233,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/56",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/56",
@@ -4393,9 +4325,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/36",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/36",
@@ -4619,9 +4549,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": null,
     "comments": 8,
     "created_at": "2020-12-01T19:47:49Z",
@@ -4669,15 +4597,11 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2020-11-26T18:21:28Z",
@@ -4719,15 +4643,11 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2020-11-26T18:20:08Z",
@@ -4792,9 +4712,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/56",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/56",
@@ -4872,9 +4790,7 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": {
@@ -4996,9 +4912,7 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": {
@@ -5134,9 +5048,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/56",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/56",
@@ -5346,9 +5258,7 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": {
@@ -5470,15 +5380,11 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": null,
     "comments": 1,
     "created_at": "2020-11-19T15:51:46Z",
@@ -5526,9 +5432,7 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": {
@@ -5664,9 +5568,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/36",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/36",
@@ -6570,9 +6472,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/52",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/52",
@@ -6836,9 +6736,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/36",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/36",
@@ -6916,9 +6814,7 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": {
@@ -7040,15 +6936,11 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2020-10-29T15:49:13Z",
@@ -7090,9 +6982,7 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": {
@@ -7234,15 +7124,11 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/46",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/46",
@@ -7466,9 +7352,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/52",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/52",
@@ -7560,9 +7444,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/52",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/52",
@@ -7640,15 +7522,11 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/42",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/42",
@@ -7740,9 +7618,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/53",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/53",
@@ -7843,9 +7719,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/53",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/53",
@@ -7937,9 +7811,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/53",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/53",
@@ -8040,9 +7912,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/53",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/53",
@@ -8143,9 +8013,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/53",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/53",
@@ -8237,9 +8105,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/53",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/53",
@@ -8331,9 +8197,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/53",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/53",
@@ -8425,9 +8289,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/52",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/52",
@@ -8519,9 +8381,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/52",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/52",
@@ -8774,9 +8634,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/52",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/52",
@@ -8868,9 +8726,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/52",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/52",
@@ -8962,9 +8818,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/52",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/52",
@@ -9056,9 +8910,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/52",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/52",
@@ -9150,9 +9002,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/52",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/52",
@@ -9244,9 +9094,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/52",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/52",
@@ -9338,9 +9186,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/52",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/52",
@@ -9696,9 +9542,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/52",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/52",
@@ -9922,9 +9766,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/52",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/52",
@@ -10002,9 +9844,7 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": {
@@ -10126,15 +9966,11 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/51",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/51",
@@ -10212,15 +10048,11 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/51",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/51",
@@ -10298,9 +10130,7 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": {
@@ -10422,9 +10252,7 @@
       "type": "User",
       "site_admin": false
     },
-    "labels": [
-
-    ],
+    "labels": [],
     "state": "open",
     "locked": false,
     "assignee": {
@@ -10569,9 +10397,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/53",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/53",
@@ -10663,9 +10489,7 @@
     "state": "open",
     "locked": false,
     "assignee": null,
-    "assignees": [
-
-    ],
+    "assignees": [],
     "milestone": {
       "url": "https://api.github.com/repos/sara-sabr/ITStrategy/milestones/49",
       "html_url": "https://github.com/sara-sabr/ITStrategy/milestone/49",
