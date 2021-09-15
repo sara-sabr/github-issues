@@ -1,9 +1,11 @@
 import { lab } from 'd3';
 import _ from 'lodash';
+import * as getData from '@/getRepoData.js'
 //Get manually created list of issues, labels and milestones
 import issues from "~/repoIssues.json"
 import labels from "~/repoLabels.json"
 import milestones from "~/repoMilestones.json"
+
 
 const myIssues = issues
 
@@ -54,7 +56,9 @@ function findInitiativesIDsFromLabels() {
 
 //   return element;
 // }
+let ghIssues = getData.listIssues("sara-sabr", "ITStrategy", 100)
 
+console.log(ghIssues)
 let thisIssue = issues[0]
 let thisLabel = labels[0]
 let thisMilestone = milestones[0]
