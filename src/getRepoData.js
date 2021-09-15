@@ -3,7 +3,7 @@ import { Octokit } from 'octokit';
 
 const octokit = new Octokit
 
-export default async function listIssues(owner, repo, per_page) {
+export async function listIssues(owner, repo, per_page) {
   const issues = await octokit.paginate(octokit.rest.issues.listForRepo, {
     owner: owner,
     repo: repo,
@@ -18,7 +18,7 @@ export default async function listIssues(owner, repo, per_page) {
   console.log(JSON.stringify(issues[0]))
 }
 
-export default async function listRepoMilestones(owner, repo, per_page) {
+export async function listRepoMilestones(owner, repo, per_page) {
   const issues = await octokit.paginate(octokit.rest.issues.listMilestones, {
     owner: owner,
     repo: repo,
@@ -33,7 +33,7 @@ export default async function listRepoMilestones(owner, repo, per_page) {
   console.log(JSON.stringify(issues[0]))
 }
 
-export default async function listRepoLabels(owner, repo, per_page) {
+export async function listRepoLabels(owner, repo, per_page) {
   const issues = await octokit.paginate(octokit.rest.issues.listLabelsForRepo, {
     owner: owner,
     repo: repo,
